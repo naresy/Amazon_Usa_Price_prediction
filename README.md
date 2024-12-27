@@ -48,7 +48,7 @@
 <h2>💻 Installation and Setup</h2>
 <ol>
         <li>Clone the repository:</li>
-        <pre>git clone https://github.com/your-username/usa-optimal-price-prediction.git</pre>
+        <pre>git clone https://github.com/naresy/usa-optimal-price-prediction.git</pre>
         <li>Install the required Python packages:</li>
         <pre>pip install -r requirements.txt</pre>
         <li>Download the dataset from Kaggle and place it in the <code>Data/</code> folder.</li>
