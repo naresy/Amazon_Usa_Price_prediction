@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>USA Optimal Product Price Prediction</title>
+
+<title>USA Optimal Product Price Prediction</title>
 </head>
 <body>
     <h1 align="center">📈 USA Optimal Product Price Prediction</h1>
