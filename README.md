@@ -69,7 +69,7 @@
 <h2>🔗 Links</h2>
 <ul>
         <li><a href="https://www.kaggle.com/datasets/asaniczka/usa-optimal-product-price-prediction">Dataset on Kaggle</a></li>
-        <li><a href="https://github.com/naresy/usa-optimal-price-prediction">GitHub Repository</a></li>
+        <li><a href="https://github.com/naresy/Amazon_Usa_Price_prediction">GitHub Repository</a></li>
 </ul>
 
 <hr>
